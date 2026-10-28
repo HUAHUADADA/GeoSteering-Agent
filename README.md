@@ -1,3 +1,4 @@
+<img width="1799" height="1193" alt="12" src="https://github.com/user-attachments/assets/ffa1fdb0-ad4b-4649-af3e-deba5ea2bd2c" />
 # 地质导向多Agent协作系统
 # 项目简介
 本系统面向石油钻井地质导向工程师，解决传统手工作业中轨迹解算效率低、地层真厚度计算不精确、参数敏感性分析缺失的痛点。  
