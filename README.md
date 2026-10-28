@@ -1,4 +1,4 @@
-<img width="1799" height="1193" alt="12" src="https://github.com/user-attachments/assets/ffa1fdb0-ad4b-4649-af3e-deba5ea2bd2c" />
+
 # 地质导向多Agent协作系统
 # 项目简介
 本系统面向石油钻井地质导向工程师，解决传统手工作业中轨迹解算效率低、地层真厚度计算不精确、参数敏感性分析缺失的痛点。  
@@ -27,7 +27,7 @@
 <img width="2558" height="1523" alt="轨迹3D图" src="https://github.com/user-attachments/assets/06aedbf0-7954-4a9e-9402-f4fcd840e48f" />
 <img width="2551" height="1517" alt="厚度柱状图" src="https://github.com/user-attachments/assets/a0a79a9e-549b-42e3-9455-3e3ebe0a28d7" />
 <img width="2560" height="1518" alt="轨迹与厚度图" src="https://github.com/user-attachments/assets/01e1fb27-5963-4943-a055-4295956e49d0" />
-<img width="2553" height="1519" alt="运行日志" src="https://github.com/user-attachments/assets/7af9ad19-3885-41d7-b734-a2e7e1d824c7" />
+<img width="1799" height="1193" alt="12" src="https://github.com/user-attachments/assets/ffa1fdb0-ad4b-4649-af3e-deba5ea2bd2c" />
 # 应用效果
 - 单井处理时间从 **2小时 → 5秒**
 - 每日可处理 **200+井次**
